@@ -21,11 +21,17 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="ClientApp\app\components\dashboard\dashboard.component.ts" />
     <None Remove="ClientApp\app\components\navbar\navbar.component.ts" />
   </ItemGroup>
 
   <ItemGroup>
+    <TypeScriptCompile Include="ClientApp\app\components\dashboard\dashboard.component.ts" />
     <TypeScriptCompile Include="ClientApp\app\components\navbar\navbar.component.ts" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ClientApp\app\services\" />
   </ItemGroup>
 
   <Target Name="DebugRunWebpack" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('wwwroot\dist') ">
