@@ -1086,57 +1086,57 @@ a.admin-btn-reset {
 }
 
 .k-marker-hur-point-ts {
-    background-image: url("../../images/HurPins/ts.png") !important;
+    /*background-image: url("../../images/HurPins/ts.png") !important;*/
     background-repeat: no-repeat;
 }
 
 .k-marker-hur-point-td {
-    background-image: url("../../images/HurPins/td.png") !important;
+    /*background-image: url("../../images/HurPins/td.png") !important;*/
     background-repeat: no-repeat;
 }
 
 .k-marker-hur-point-h0 {
-    background-image: url("../../images/HurPins/h0.png") !important;
+    /*background-image: url("../../images/HurPins/h0.png") !important;*/
     background-repeat: no-repeat;
 }
 
 .k-marker-hur-point-h1 {
-    background-image: url("../../images/HurPins/h1.png") !important;
+    /*background-image: url("../../images/HurPins/h1.png") !important;*/
     background-repeat: no-repeat;
 }
 
 .k-marker-hur-point-h2 {
-    background-image: url("../../images/HurPins/h2.png") !important;
+    /*background-image: url("../../images/HurPins/h2.png") !important;*/
     background-repeat: no-repeat;
 }
 
 .k-marker-hur-point-h3 {
-    background-image: url("../../images/HurPins/h3.png") !important;
+    /*background-image: url("../../images/HurPins/h3.png") !important;*/
     background-repeat: no-repeat;
 }
 
 .k-marker-hur-point-h4 {
-    background-image: url("../../images/HurPins/h4.png") !important;
+    /*background-image: url("../../images/HurPins/h4.png") !important;*/
     background-repeat: no-repeat;
 }
 
 .k-marker-hur-point-h5 {
-    background-image: url("../../images/HurPins/h5.png") !important;
+    /*background-image: url("../../images/HurPins/h5.png") !important;*/
     background-repeat: no-repeat;
 }
 
 .k-marker-hur-point-typhoon {
-    background-image: url("../../images/HurPins/typhoon.png") !important;
+    /*background-image: url("../../images/HurPins/typhoon.png") !important;*/
     background-repeat: no-repeat;
 }
 
 .k-marker-hur-point-current {
-    background-image: url("../../images/HurPins/animated.gif") !important;
+    /*background-image: url("../../images/HurPins/animated.gif") !important;*/
     background-repeat: no-repeat;
 }
 
 .k-marker-hur-point-warning {
-    background-image: url("../../images/HurPins/flag.png") !important;
+    /*background-image: url("../../images/HurPins/flag.png") !important;*/
     background-repeat: no-repeat;
 }
 /*Map point classes Ends*/
@@ -1403,7 +1403,7 @@ a.admin-btn-reset {
 
 
 .toolsxl {
-    background: url('../../images/exportTo_xl.png') no-repeat 5px center;
+    /*background: url('../../images/exportTo_xl.png') no-repeat 5px center;*/
     width: 30px;
     height: 26px;
     text-align: center;
@@ -1468,7 +1468,7 @@ div#LocatioPin-wrapper-3{
 }
 
 .mapexpandview_up {
-    background: url('../../Images/expand_view_icon_up.png') no-repeat;
+    /*background: url('../../Images/expand_view_icon_up.png') no-repeat;*/
     width: 20px;
     height: 20px;
     background-size: 20px;
@@ -1483,7 +1483,7 @@ div#LocatioPin-wrapper-3{
     }
 
 .mapexpandview_down {
-    background: url('../../Images/expand_view_icon_down.png') no-repeat;
+    /*background: url('../../Images/expand_view_icon_down.png') no-repeat;*/
     width: 20px;
     height: 20px;
     background-size: 20px;
