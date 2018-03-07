@@ -615,8 +615,8 @@
                                                                     <tbody data-bind="foreach:EstLossDonutLegend">
                                                                         <tr>
                                                                             <td><span class="legendBox" data-bind="style:{backgroundColor:color}"></span></td>
-                                                                            <td><med data-bind="text:name"></med> </td>
-                                                                            <td class="text-right"> <med data-bind="text:percentText"></med> </td>
+                                                                            <td><span data-bind="text:name"></span> </td>
+                                                                            <td class="text-right"> <span data-bind="text:percentText"></span> </td>
                                                                         </tr>
                                                                     </tbody>
                                                                 </table>
@@ -667,8 +667,8 @@
                                                                 <tbody data-bind="foreach:LocAtRiskDonutLegend">
                                                                     <tr>
                                                                         <td><span class="legendBox" data-bind="style:{backgroundColor:color}"></span></td>
-                                                                        <td><med data-bind="text:name"></med> </td>
-                                                                        <td class="text-right"> <med data-bind="text:percentText"></med> </td>
+                                                                        <td><span data-bind="text:name"></span> </td>
+                                                                        <td class="text-right"> <span data-bind="text:percentText"></span> </td>
                                                                     </tr>
                                                                 </tbody>
                                                             </table>
@@ -691,7 +691,7 @@
                                         <div class="widget-head innerAll half">
                                             <span>
                                                 Affected Locations by Limit Profile
-                                                <span><med data-bind="handlePerilDrillDown:{}"></med></span>
+                                                <span><span data-bind="handlePerilDrillDown:{}"></span></span>
                                             </span>
                                         </div>
                                         <!-- Widget -->
