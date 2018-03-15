@@ -700,7 +700,7 @@ a.admin-btn-reset {
 
 .nodata-left {
     min-height: 190px;
-    /*background-image: url('../../Images/no-data-circle.png');*/
+    background-image: url(../../assets/images/no-data-circle.png);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -724,7 +724,7 @@ a.admin-btn-reset {
 
 .nodata-affected-locations {
     height: 225px;
-    /*background-image: url('../../Images/nodata-affected-locations.png');*/
+    background-image: url(../../assets/images/nodata-affected-locations.png);
     background-repeat: no-repeat;
     background-position: left;
 }
@@ -1403,8 +1403,7 @@ a.admin-btn-reset {
 
 
 .toolsxl {
-    /*background: url('../../images/exportTo_xl.png') no-repeat 5px center;*/
-    width: 30px;
+    background: url(../../assets/images/exportTo_xl.png) no-repeat 5px center; width: 30px;
     height: 26px;
     text-align: center;
     display: inline-block;
@@ -1468,8 +1467,7 @@ div#LocatioPin-wrapper-3{
 }
 
 .mapexpandview_up {
-    /*background: url('../../Images/expand_view_icon_up.png') no-repeat;*/
-    width: 20px;
+    background: url(../../assets/images/expand_view_icon_up.png) no-repeat; width: 20px;
     height: 20px;
     background-size: 20px;
     position: absolute;
@@ -1483,8 +1481,7 @@ div#LocatioPin-wrapper-3{
     }
 
 .mapexpandview_down {
-    /*background: url('../../Images/expand_view_icon_down.png') no-repeat;*/
-    width: 20px;
+    background: url(../../assets/images/expand_view_icon_down.png) no-repeat; width: 20px;
     height: 20px;
     background-size: 20px;
     position: fixed;

@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 import { RouterModule } from '@angular/router';
+import { ChartModule, HIGHCHARTS_MODULES } from 'angular-highcharts'
 
 import { AppComponent } from './components/app/app.component';
 import { NavBarComponent } from './components/navbar/navbar.component';
